@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Eric Wilken",
+    "section": "",
+    "text": "Welcome! My name is Eric Wilken and I am an economics PhD candidate at the University of Oregon. I will be on the job market for the 2025-2026 academic year.\nI am an applied microeconomist with broad resarch interests in public, labor, and behavioral economics. My current research focuses on child welfare and how public policy impacts decisions about health and criminality. I also have interests in leadership and how groups behave differently depending on what type of leader (manager vs technical peer ‘leader’) to which they are exposed.\nIn my leisure time, I play percussion with the Eugene Springfield Community Orchestra, sit on the board of directors for Eugene Science Center, and explore my local food scene!"
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Eric Wilken",
+    "section": "",
+    "text": "Welcome! I am currently an economics PhD candidate at the University of Oregon. I am on the job market for the 2025-2026 academic year.\nI’m an applied microeconomist with broad resarch interests in public, labor, and behavioral economics. I"
+  },
+  {
+    "objectID": "index.html#selected-projects",
+    "href": "index.html#selected-projects",
+    "title": "Eric Wilken",
+    "section": "",
+    "text": "rsi | Efficiently Retrieve and Process Satellite Imagery | 2024 waywiser | Ergonomic Methods for Assessing Spatial Models | 2023\nspatialsample | Spatial Resampling Infrastructure | 2022\nunifir | A Unifying API for Working with Unity in R | 2022\nterrainr | Retrieve Data from the USGS National Map and Transform it for 3D Landscape Visualizations | 2021"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Teaching Introduction",
+    "section": "",
+    "text": "Teaching is the most fulfilling part of my work. Since 2019, I have taught 10 undergraduate courses as the instructor of record with class sizes ranging from 90 students to 12 students. My teaching style relies heavily on the relationships I build with students. For this reason, I find that I am best at teaching classes of less than 40. In this size of class, I can learn every student’s name and their strengths in the material. When demand necessitates larger classes, I still try to maximize student engagement through flipped classroom days and in-class experiments with a debrief. Below you will find information about the courses that I have taught and an example syllabus."
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "Works in Progress\nSports Gambling Laws and Family Stress: Evidence from Reports of Child Abuse and Neglect\nI address a pressing gap in understanding the unintended consequences of sports betting legalization. The prevalence of risk factors for child maltreatment appear to increase in response to the legalization of sports betting, but the direct impacts on abuse and neglect remain unexplored. Using administrative child protective services (CPS) case data retrieved from the National Child Abuse and Neglect Data System (NCANDS), I will use a difference-in-difference two-way fixed effects framework to explore how sports gambling legalization impacts the overall prevalence of child maltreatment. Moreover, by exploring the heterogeneity in case types, reporting sources, and placement outcomes, I aim to disentangle the causal pathways between sports gambling and child maltreatment, to provide information which may in the future help to mitigate negative effects. Preliminary results suggest that the legalization of mobile sports gambling leads to an increase in the reporting of incidences of child maltreatment.\n\n\n\n\n\nTogether in Purpose, Not Persona: Leader Identity’s impact on Volunteer Effort\nIn the context of nonprofits, I explore the effect of a leader’s gender and sexuality on volunteer motivation. I propose an experiment using both stated and revealed measures to investigate the effect of a leader’s identity on volunteers attitudes and performance. I find that women in positions of leadership are rated as more typical more effective than their male peers. I do not find evidence that leader gender or sexuality have a direct effect on follower performance. I discuss how follower’s group identities and their personal attitudes towards the nonprofit they are volunteering for interact with these results.\n\n\n\n\n\nArtifical Aging and Face Morphing: Testing the Double Standard of Aging Hypothesis\nwith Mary Kite\nWe introduce a novel method, artificial aging and face morphing, to test how people perceive old age based on a target’s gender and race. Undergraduates (N = 170) were shown six slide decks with automatic progression in the lab which showed a face transitioning from young to old (or old to young). Participants were instructed to stop the slide deck when the face had started to look old (young). The stopped frame value was recorded for each video. Participants then reported their thoughts while doing the morphs, provided attractiveness ratings and age anchors for all of the faces they viewed, and completed a demographic questionnaire. The stopped frame was compared by a 4 (Target Race) X 2 (Target Gender) ANOVA. Results showed significant main effects for target gender (p &lt; 0.009), target race (p &lt; 0.03), and an interaction effect between race and gender (p &lt; 0.03). I will introduce the results in the context of stopped frames and open up a discussion on the value of imputing target race as an alternative.\nFaces retrieved from Chicago Face Database\n\n\nVideo"
+  },
+  {
+    "objectID": "teaching/index.html#economics---university-of-oregon",
+    "href": "teaching/index.html#economics---university-of-oregon",
+    "title": "Teaching Introduction",
+    "section": "Economics - University of Oregon",
+    "text": "Economics - University of Oregon\n\n\nEC201 - Introduction to Economic Analysis: Microeconomics\nThis course explores microconomics and delves into the intricacies of how societies, individuals, businesses, and governments make decisions regarding the allocation of limited resources to fulfill their needs and wants. The fundamental concept at the core of economics is scarcity, or the reality that resources whether they be time, money, labor, or natural resources are finite. In light of this scarcity, individuals and societies are compelled to make choices to ensure the efficient use of these resources. Economics provides a rigorous framework in which to organize what we see in the world. We will cover several models in this course which will use simplifications of human behavior to allow us to explore the various facets of economic decision making.\nSyllabus\nTerms Taught: Summer 2023, Fall 2023, Winter 2024\nEC330 - Urban and Regional Economic Problems\nIn this course, we dive into the fascinating world of cities and how they work from an economic perspective. The importance of location is not hard to argue but many traditional microeconomic models do not consider space. We’ll explore why cities form, what drives their growth, and how factors like housing, transportation, and public policy shape the way they develop. Along the way, we’ll look at the key challenges cities face, such as inequality, congestion, and housing affordability, and use economic theory to better understand these issues. By the end, you’ll be equipped with tools to analyze urban problems and think critically about how policies can influence the future of our cities.\nSyllabus\nTerms Taught: Fall 2024, Spring 2025\n\n\n\nEC350 - Labor Market Issues\nThis course will cover topics including labor supply, labor demand, education, discrimination, and unionization. Emphasis is given to the labor force participation of historically underrepresented groups, earnings, wage distributions and inequality, and analyzing government interventions. We will ask many questions… Why do people work? Why are different people willing to work the same job but get paid different wages? Why are there people who want jobs, but can’t find them? How do we identify and combat discrimination in the labor market? How valuable is education? How can government policy and unions impact labor markets? In order to investigate these questions and more, we will employ a combination of theoretical models and empirical evidence.\nSyllabus\nTerms Taught: Summer 2024"
+  },
+  {
+    "objectID": "teaching/index.html#mathematics---ball-state-university",
+    "href": "teaching/index.html#mathematics---ball-state-university",
+    "title": "Teaching Introduction",
+    "section": "Mathematics - Ball State University",
+    "text": "Mathematics - Ball State University\n\n\nMATH 125 - Quantitative Reasoning\nA diverse course including statistics and other topics such as mathematical modeling, problem solving, finance, geometrical concepts, growth patterns, and applications to the physical sciences, social sciences, and economics. Recommended background: three years of college preparatory mathematics in high school.\nSyllabus\nTerms Taught: Fall 2019, Spring 2020^, Fall 2020^, Spring 2021\n^ Denotes a class which was conducted hybrid (50% in person, 50% online)"
+  },
+  {
+    "objectID": "teaching/index.html#phillips-exeter-academy",
+    "href": "teaching/index.html#phillips-exeter-academy",
+    "title": "Teaching Introduction",
+    "section": "Phillips Exeter Academy",
+    "text": "Phillips Exeter Academy\n\n\nInvesting in a Changing World\nAre you interested in the stock market? Are you curious how stock is analyzed, how one invests? What are some of the moral or immoral practices a company might use as part of their strategy to be profitable? What is a “sustainable” practice or company? If you are interested in these and related questions then join us and learn some of the basics of investing, stock markets, forces that move markets, ethical choices business leaders make that may encourage or discourage investment and much more. While no actual money will be put at risk, through case studies, exercises like developing your own portfolio, research, discussion and presentations you will wrestle with financial, strategic, and ethical considerations that are part of investing. Join us to see how sustainable companies are examined and identified in a changing society and world.\nTaught: Summer 2023, 2024, 2025\n\n\n\nMarketing: Dignified Digital Design\nThis is an introductory digital marketing course that provides an overview on consumer behavior as well as the actual market. Students will learn about market targeting and segmentation; determining distribution; pricing and promotional strategies; developing a communications strategy; budgeting; analytics; as well as optimization. Ultimately, students will develop a critical eye for discerning and distinguishing between ethical and non-ethical marketing.\nTaught: Summer 2023, 2024, 2025"
+  }
+]
