@@ -103,5 +103,54 @@
     "title": "Teaching Introduction",
     "section": "Teaching Resources",
     "text": "Teaching Resources\nBelow is a short list of resources that I use in my courses and you may find value in using them in yours!\nInteractive Graphs\n\nEcon Graphs\nInteractive Economics\nEcon Reimagined\n\nClassroom Games/Simulations\n\nEconomics-Games.com\nDelemeester and Brauer List of Economics Games\nMob lab\nEcon Class Experiments\n\nOpenSource Textbooks\n\nCoreEcon\nOpenStax\nMarginal Revolution University"
+  },
+  {
+    "objectID": "resources/index.html",
+    "href": "resources/index.html",
+    "title": "Resources",
+    "section": "",
+    "text": "The below shiny app is used to help visualize an experiment I developed for my urban economics course. It is helpful to show the spatial distribution of different types of individuals around a city given some data generating process which influences the amount they are able to bid."
+  },
+  {
+    "objectID": "resources/index.html#auction-solver-and-visualizer",
+    "href": "resources/index.html#auction-solver-and-visualizer",
+    "title": "Resources",
+    "section": "",
+    "text": "The below shiny app is used to help visualize an experiment I developed for my urban economics course. It is helpful to show the spatial distribution of different types of individuals around a city given some data generating process which influences the amount they are able to bid."
+  },
+  {
+    "objectID": "resources/index.html#supply-and-demand",
+    "href": "resources/index.html#supply-and-demand",
+    "title": "Resources",
+    "section": "Supply and Demand",
+    "text": "Supply and Demand\nStudents often struggle visualizing how supply and demand curves operate. I find that giving students the opportunity to play around with an interactive equilibrium calculator, this one I put together using plotly, and giving them an assignment to articulate what it means as they adjust different parameters helps them to more quickly connect mathematics to economics.\n\n\n\n\n\n\nDemand: P = a − b·Q\n\na (intercept)\n\n\n\n\n\n\nb (slope, ≥ 0)\n\n\n\n\n\n\n\nSupply: P = c + d·Q\n\nc (intercept)\n\n\n\n\n\n\nd (slope, ≥ 0)\n\n\n\n\n\n\n\n\n\n\nEquilibrium:\n\nQ* = \n\n\nP* = \n\n\n\nEquations:\n\nDemand: P = \n\n\nSupply: P ="
+  },
+  {
+    "objectID": "resources/index.html#teaching-resources",
+    "href": "resources/index.html#teaching-resources",
+    "title": "Resources",
+    "section": "Teaching Resources",
+    "text": "Teaching Resources\nBelow is a ever growing list of resources that I use in my courses and you may find value in using them in yours!\nInteractive Graphs\n\nEcon Graphs: This site provides more graphs that students can play around with similar to the one above but without numbers at play.\nInteractive Economics: Supplementary materials to lectures or textbook that has interactive figures often with real world data.\nEcon Reimagined: Lots of Practice Questions!\n\nClassroom Games/Simulations\n\nEconomics-Games.com: Online experiments\nDelemeester and Brauer List of Economics Games: Comprehensive literature review of published hands-on classroom experiments in economics.\nMob lab: Online experiments\nEcon Class Experiments: Online experiments\n\nOpenSource Textbooks\n\nCoreEcon\nOpenStax\nMarginal Revolution University"
+  },
+  {
+    "objectID": "resources/index.html#visualize-the-bid-rent-curve",
+    "href": "resources/index.html#visualize-the-bid-rent-curve",
+    "title": "Resources",
+    "section": "",
+    "text": "The below shiny app is used to help visualize an experiment I developed for my urban economics course. It is helpful to show the spatial distribution of different types of individuals around a city given some data generating process which influences the amount they are able to bid."
+  },
+  {
+    "objectID": "resources/index.html#graphs-games-and-books",
+    "href": "resources/index.html#graphs-games-and-books",
+    "title": "Resources",
+    "section": "Graphs, Games, and Books!!",
+    "text": "Graphs, Games, and Books!!\nBelow is a ever growing list of resources that I use in my courses and you may find value in using them in yours!\nInteractive Graphs\n\nEcon Graphs: This site provides more graphs that students can play around with similar to the one above but without numbers at play.\nInteractive Economics: Supplementary materials to lectures or textbook that has interactive figures often with real world data.\nEcon Reimagined: Lots of Practice Questions!\n\nClassroom Games/Simulations\n\nEconomics-Games.com: Online experiments\nDelemeester and Brauer List of Economics Games: Comprehensive literature review of published hands-on classroom experiments in economics.\nMob lab: Online experiments\nEcon Class Experiments: Online experiments\n\nOpenSource Textbooks\n\nCoreEcon\nOpenStax\nMarginal Revolution University"
+  },
+  {
+    "objectID": "resources/index.html#visualize-the-bid-rent-curve-around-a-city",
+    "href": "resources/index.html#visualize-the-bid-rent-curve-around-a-city",
+    "title": "Resources",
+    "section": "",
+    "text": "The below shiny app is used to help visualize an experiment I developed for my urban economics course. It is helpful to show the spatial distribution of different types of individuals around a city given some data generating process which influences the amount they are able to bid."
   }
 ]
